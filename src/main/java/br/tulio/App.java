@@ -4,7 +4,7 @@ public class App
 {
     /***
      *
-     * @param args
+     * @param args parametros enviados pelo usuario
      */
     public static void main( String[] args )
     {
